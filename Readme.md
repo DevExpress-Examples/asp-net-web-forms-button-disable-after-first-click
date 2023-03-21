@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Button for ASP.NET Web Forms - How to disable a button after the first click
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t590813/)**
+**[[Run Online]](https://codecentral.devexpress.com/128530503/)**
 <!-- run online end -->
 
 This example demonstrates how to create a button and disable its client-side functionality after the first click.
